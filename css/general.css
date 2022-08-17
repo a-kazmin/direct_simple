@@ -1,0 +1,38 @@
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#logo_text {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.underlined_text {
+    text-decoration: underline;
+}
+
+.center_alligned_text {
+    text-align: center;
+}
+
+.vertical_middle {
+    vertical-align: middle;
+}
+
+.vertical_top {
+    vertical-align: top;
+}
+
+.red_text {
+    color: red;
+}
+
+.inline_block {
+    display: inline-block;
+}
